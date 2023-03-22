@@ -1,0 +1,32 @@
+<RCC>
+    <qresource>
+        <file>ic_close_white.png</file>
+        <file>ic_hide_pwd.png</file>
+        <file>ic_show_pwd.png</file>
+        <file>ic_minimize.png</file>
+        <file>ic_minimize_hover.png</file>
+        <file>ic_logo.png</file>
+        <file>ic_close_white_hover.png</file>
+        <file>ic_running.png</file>
+        <file>ic_not_running.png</file>
+        <file>ic_refresh.png</file>
+        <file>ic_buswechat.png</file>
+        <file>ic_wechat.png</file>
+        <file>ic_wechat_profile.png</file>
+        <file>ic_qq.png</file>
+        <file>ic_online.png</file>
+        <file>ic_offline.png</file>
+        <file>ic_toggle_on.png</file>
+        <file>ic_toggle_off.png</file>
+        <file>ic_user.png</file>
+        <file>ic_edit.png</file>
+        <file>ic_setting_blue.png</file>
+        <file>ic_setting_white.png</file>
+        <file>ic_close_gray.png</file>
+        <file>ic_help.png</file>
+        <file>ic_ok.png</file>
+        <file>ic_question.png</file>
+        <file>ic_my_profile.png</file>
+        <file>ic_qq_profile.png</file>
+    </qresource>
+</RCC>

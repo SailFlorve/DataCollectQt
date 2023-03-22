@@ -1,2 +1,2 @@
 # DataCollectQt
-Data Collection By PyQt
+Data collect tools for social media softwares.
